@@ -11,11 +11,13 @@ A passionate full‑stack developer building scalable web services and delightfu
 <!-- solved.ac -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478)](https://solved.ac/qkrwns1478/)
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=compact&theme=vue&hide_border=true)
+<!-- GitHub Stats + Top Languages -->
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
+</span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=compact&theme=vue&hide_border=true" />
+</span>
 
 ---
 
@@ -48,8 +50,8 @@ A passionate full‑stack developer building scalable web services and delightfu
 
 ## 🎓 Education
 
-![KNU](https://img.shields.io/badge/KNU-E60000?style=for-the-badge&logo=knu&logoColor=white)
-![Krafton Jungle](https://img.shields.io/badge/Krafton_Jungle-5fcd89?style=for-the-badge&logo=krafton&logoColor=white)
+[![KNU](https://img.shields.io/badge/KNU-E60000?style=for-the-badge&logo=knu&logoColor=white)](https://knu.ac.kr)
+[![Krafton Jungle](https://img.shields.io/badge/Krafton_Jungle-5fcd89?style=for-the-badge&logo=krafton&logoColor=white)](https://jungle.krafton.com/)
 
 ---
 
