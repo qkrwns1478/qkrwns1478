@@ -5,27 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=42BBFF&width=435&lines=Building+scalable+systems+💻;Crafting+delightful+UIs+🎨;Loving+CS+and+algorithms+💡" alt="Typing SVG" />
 </p>
 
----
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-
-<ul>
-  <li>💼 Full-stack developer who loves both frontend magic and backend architecture</li>
-  <li>📈 Passionate about <strong>high-performance systems</strong> and <strong>data engineering</strong></li>
-  <li>🔎 Exploring distributed systems, OS internals, and system design in depth</li>
-  <li>🧩 Problem-solver @<a href="https://solved.ac/qkrwns1478">Baekjoon</a> (check below!)</li>
-</ul>
-
-</td>
-<td>
-  <img src="https://avatars.githubusercontent.com/qkrwns1478" width="150" style="border-radius:50%" alt="Profile Image"/>
-</td>
-  </tr>
-</table>
+- 💼 Full-stack developer who loves both frontend magic and backend architecture
+- 📈 Passionate about **high-performance systems** and **data engineering**
+- 🔎 Exploring distributed systems, OS internals, and system design in depth
+- 🧩 Problem-solver @[Baekjoon](https://solved.ac/qkrwns1478) (check below!)
 
 ---
 
