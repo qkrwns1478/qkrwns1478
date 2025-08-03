@@ -59,7 +59,6 @@ A passionate full‑stack developer building scalable web services and delightfu
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
-[![Gmail](https://img.shields.io/badge/Gmail-b3261e?style=for-the-badge&logo=gmail&logoColor=white)](qkrwns1478@gmail.com)
 
 ---
 
