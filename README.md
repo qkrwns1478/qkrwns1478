@@ -59,12 +59,12 @@ A passionate full‑stack developer building scalable web services and delightfu
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-b3261e?style=for-the-badge&logo=gmail&logoColor=white)](qkrwns1478@gmail.com)
 
 ---
 
 ### 📖 About Me
-- 🔭 I’m currently working on [KlickLab](https://github.com/Eatventory/KlickLab)
+- 🔭 I’d recently been working on [KlickLab](https://github.com/Eatventory/KlickLab)
 - 🌱 I’m learning advanced distributed systems and performance optimization
 - 💬 Ask me about full‑stack development, database tuning, or cloud architecture
 - ⚡ Fun fact: I love solving algorithm challenges on Baekjoon
