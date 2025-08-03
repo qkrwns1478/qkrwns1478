@@ -1,29 +1,37 @@
 <!-- ==================== HEADER: pastel waving capsule-render ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=FFFFFF&fontAlignY=40" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Howdy!%20I'm%20Junsik%20Park&fontSize=45&fontAlignY=40&desc=Full-Stack%20Developer%20|%20CS%20Geek&descSize=20&animation=fadeIn" alt="header"/>
 
-# 👋 Hi, I’m Junsik Park
-A passionate full‑stack developer building scalable web services and delightful user experiences.
-
----
-
-## BADGES
-
-<!-- solved.ac -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478)](https://solved.ac/qkrwns1478/)
-
-<!-- GitHub Stats + Top Languages -->
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
-</span>
-<span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=compact&theme=vue&hide_border=true" />
-</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=42BBFF&width=435&lines=Building+scalable+systems+💻;Crafting+delightful+UIs+🎨;Loving+CS+and+algorithms+💡" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Tech Stacks
+<h2>👨‍💻 About Me</h2>
 
-### Languages & Frameworks
+<table>
+  <tr>
+    <td>
+
+<ul>
+  <li>💼 Full-stack developer who loves both frontend magic and backend architecture</li>
+  <li>📈 Passionate about <strong>high-performance systems</strong> and <strong>data engineering</strong></li>
+  <li>🔎 Exploring distributed systems, OS internals, and system design in depth</li>
+  <li>🧩 Problem-solver @<a href="https://solved.ac/qkrwns1478">Baekjoon</a> (check below!)</li>
+</ul>
+
+</td>
+<td>
+  <img src="https://avatars.githubusercontent.com/qkrwns1478" width="150" style="border-radius:50%" alt="Profile Image"/>
+</td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Frameworks  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,17 +42,49 @@ A passionate full‑stack developer building scalable web services and delightfu
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & DB
+### Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-F7DF1E?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### Tools & Cloud
-![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Tools & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
+</span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=compact&theme=vue&hide_border=true" />
+</span>
+
+---
+
+## 🏆 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478)](https://solved.ac/qkrwns1478/)
+
+---
+
+## 🧪 Recent Projects
+
+- 🎨 [**KlickLab**](https://github.com/Eatventory/KlickLab): Analytics platform for clickstream data
+- 📡 Developed a TCP socket communication project using structured state handling with C
+- 🧠 Improved performance in server logic through optimized loop structure and buffer control
 
 ---
 
@@ -55,15 +95,15 @@ A passionate full‑stack developer building scalable web services and delightfu
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
+[![Email](https://img.shields.io/badge/Email-dd4e41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrwns1478@gmail.com)
 
 ---
 
-### 📖 About Me
-- 🔭 I’d recently been working on [KlickLab](https://github.com/Eatventory/KlickLab)
-- 🌱 I’m learning advanced distributed systems and performance optimization
-- 💬 Ask me about full‑stack development, database tuning, or cloud architecture
-- ⚡ Fun fact: I love solving algorithm challenges on Baekjoon
+<!-- Footer Quote -->
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em> 😎
+</p>
