@@ -1,11 +1,6 @@
 <!-- ==================== HEADER: pastel waving capsule-render ==================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Howdy!%20I'm%20Junsik%20Park&fontSize=45&fontAlignY=40&desc=Full-Stack%20Developer%20|%20CS%20Geek&descSize=20&animation=fadeIn" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=42BBFF&width=435&lines=Building+scalable+systems+💻;Crafting+delightful+UIs+🎨;Loving+CS+and+algorithms+💡" alt="Typing SVG" />
-</p>
-
-
 ## 👨‍💻 About Me
 
 - 💼 Full-stack developer who loves both frontend magic and backend architecture
