@@ -1,5 +1,5 @@
 <!-- ==================== HEADER: pastel waving capsule-render ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Howdy!%20I'm%20Junsik%20Park&fontSize=45&fontAlignY=40&desc=Full-Stack%20Developer%20|%20CS%20Geek&descSize=20&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Howdy!%20I'm%20ParkJS&fontSize=45&fontAlignY=40&desc=Full-Stack%20Developer%20|%20CS%20Geek&descSize=20&animation=fadeIn" alt="header"/>
 
 ## 👨‍💻 About Me
 
