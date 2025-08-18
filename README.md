@@ -56,6 +56,9 @@
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=compact&theme=vue&hide_border=true" />
 </span>
+<span>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qkrwns1478&theme=vue&hide_border=true" />
+</span>
 
 ---
 
@@ -85,3 +88,5 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-dd4e41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrwns1478@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
