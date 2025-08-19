@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
 </span>
 <span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=donut&theme=vue&hide_border=true" />
 </span>
 <span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qkrwns1478&theme=vue&hide_border=true" />
