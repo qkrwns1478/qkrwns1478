@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Howdy!%20I'm%20Junsik%20Park&fontSize=45&fontAlignY=40&desc=Full-Stack%20Developer%20|%20CS%20Geek&descSize=20&animation=fadeIn" alt="header"/>
 
-## 👨‍💻 About Me
+## About Me
 
-- 💼 Full-stack developer who loves both frontend magic and backend architecture
-- 📈 Passionate about **high-performance systems** and **data engineering**
-- 🔎 Exploring distributed systems, OS internals, and system design in depth
-- 🧩 Problem-solver @[Baekjoon](https://solved.ac/qkrwns1478) (check below!)
+- Full-stack developer who loves both frontend magic and backend architecture
+- Passionate about **high-performance systems** and **data engineering**
+- Exploring distributed systems, OS internals, and system design in depth
+- Problem-solver @[Baekjoon](https://solved.ac/qkrwns1478) (check below!)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -48,42 +48,39 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
 </span>
 <span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=donut&theme=vue&hide_border=true" />
-</span>
-<span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qkrwns1478&theme=vue&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=donut&theme=vue&hide_border=true&exclude_repo=pintos-kaist" />
 </span>
 
 ---
 
-## 🏆 Algorithm
+## Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478)](https://solved.ac/qkrwns1478/)
 
 ---
 
-## 🧪 Recent Projects
+## Recent Projects
 
-- 🎨 [**KlickLab**](https://github.com/Eatventory/KlickLab): Analytics platform for clickstream data
-- 📡 Developed a TCP socket communication project using structured state handling with C
-- 🧠 Improved performance in server logic through optimized loop structure and buffer control
+- **KlickLab** - Analytics platform for clickstream data
+
+[![KlickLab](https://github-readme-stats.vercel.app/api/pin/?username=Eatventory&repo=KlickLab)](https://github.com/Eatventory/KlickLab)
 
 ---
 
-## 🎓 Education
+## Education
 
 [![KNU](https://img.shields.io/badge/KNU-E60000?style=for-the-badge&logo=knu&logoColor=white)](https://knu.ac.kr)
 [![Krafton Jungle](https://img.shields.io/badge/Krafton_Jungle-5fcd89?style=for-the-badge&logo=krafton&logoColor=white)](https://jungle.krafton.com/)
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
