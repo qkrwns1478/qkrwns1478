@@ -5,7 +5,13 @@
 - Full-stack developer who loves both frontend magic and backend architecture
 - Passionate about **high-performance systems** and **data engineering**
 - Exploring distributed systems, OS internals, and system design in depth
-- Problem-solver @[Baekjoon](https://solved.ac/qkrwns1478) (check below!)
+- Problem-solver @[Baekjoon](https://www.acmicpc.net/user/qkrwns1478)
+
+---
+
+## Problem Solving
+
+[![Solved.ac Profile](https://solvedac-readme-stats.vercel.app/api?handle=qkrwns1478)](https://solved.ac/qkrwns1478/)
 
 ---
 
@@ -52,28 +58,9 @@
 
 ---
 
-## GitHub Stats
-
-<span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qkrwns1478&show_icons=true&theme=vue&hide_border=true" />
-</span>
-<span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwns1478&layout=donut&theme=vue&hide_border=true&exclude_repo=pintos-kaist" />
-</span>
-
----
-
-## Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478)](https://solved.ac/qkrwns1478/)
-
----
-
 ## Recent Projects
 
 - **KlickLab** - Analytics platform for clickstream data
-
-[![KlickLab](https://github-readme-stats.vercel.app/api/pin/?username=Eatventory&repo=KlickLab)](https://github.com/Eatventory/KlickLab)
 
 ---
 
