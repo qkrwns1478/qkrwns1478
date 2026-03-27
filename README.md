@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Howdy!%20I'm%20Junsik%20Park&fontSize=45&fontAlignY=40&desc=Full-Stack%20Developer%20|%20CS%20Geek&descSize=20&animation=fadeIn" alt="header"/>
+# Hello! I'm Junsik Park
 
 ## About Me
 
@@ -37,8 +37,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,14 +58,21 @@
 
 ## Recent Projects
 
-- **KlickLab** - Analytics platform for clickstream data
+- **AliceLingo**: TOEIC Speaking study web application
+- **KlickLab**: Analytics platform for clickstream data
 
 ---
 
-## Education
+## Educations
 
-[![KNU](https://img.shields.io/badge/KNU-E60000?style=for-the-badge&logo=knu&logoColor=white)](https://knu.ac.kr)
-[![Krafton Jungle](https://img.shields.io/badge/Krafton_Jungle-5fcd89?style=for-the-badge&logo=krafton&logoColor=white)](https://jungle.krafton.com/)
+- **Kyungpook National University** `2019.03 - 2025.08` : Bachelor of Electronic Engineering
+- **Krafton Jungle 8th** `2025.03 - 2025.07`
+
+---
+
+## Experiences
+
+- **MOKI** `2024.01 - 2024.02` : Field Trip Internship
 
 ---
 
@@ -76,5 +81,3 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-dd4e41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrwns1478@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
