@@ -11,7 +11,7 @@
 
 ## Problem Solving
 
-[![Solved.ac Profile](https://solvedac-readme-stats.vercel.app/api?handle=qkrwns1478)](https://solved.ac/qkrwns1478/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478">
 
 ---
 
