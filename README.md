@@ -2,20 +2,11 @@
 
 ## About Me
 
-- Full-stack developer who loves both frontend magic and backend architecture
-- Passionate about **high-performance systems** and **data engineering**
-- Exploring distributed systems, OS internals, and system design in depth
-- Problem-solver @[Baekjoon](https://www.acmicpc.net/user/qkrwns1478)
+- Full-stack developer who loves both Frontend magic and Backend architecture
 
 ---
 
-## Problem Solving
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwns1478">
-
----
-
-## Tech Stack
+## Tech Stacks
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -31,27 +22,30 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Database & Pipeline
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-F7DF1E?style=for-the-badge&logo=clickhouse&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### DevOps
+### DevOps & Monitoring
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ## Recent Projects
 
-- **AliceLingo** `2026.02 - 2026.03` : TOEIC Speaking study web application
-- **KlickLab** `2025.05 - 2025.06` : Analytics platform for clickstream data
+- **Sanji-JikKyeng** `2026.06 - 2026.07` : Online Auction Platform
+- **SpartaLogistics** `2026.05 - 2026.06` : Logistics Platform
+- **6CanDoIt** `2026.04 - 2026.05` : Food Delivery Platform
+- **KlickLab** `2025.05 - 2025.06` : Analytics Platform for Clickstream Data
 
 ---
 
@@ -59,17 +53,18 @@
 
 - **Kyungpook National University** `2019.03 - 2025.08` : Bachelor of Electronic Engineering
 - **Krafton Jungle 8th** `2025.03 - 2025.07`
+- **NBCamp Java track 7th** `2026.04 - 2026.07`
 
 ---
 
 ## Experiences
 
-- **MOKI** `2024.01 - 2024.02` : Field Trip Internship
+- **MOKI** `2024.01 - 2024.02` : Kiosk Startup (Internship)
 
 ---
 
-## Contact
+## Contact Me
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Tistory](https://img.shields.io/badge/Tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white)](https://munsik22.tistory.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qkrwns1478)
 [![Gmail](https://img.shields.io/badge/Gmail-dd4e41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrwns1478@gmail.com)
