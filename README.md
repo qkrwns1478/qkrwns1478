@@ -34,6 +34,7 @@
 ### DevOps & Monitoring
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -45,6 +46,7 @@
 - **Sanji-JikKyeng** `2026.06 - 2026.07` : Online Auction Platform
 - **SpartaLogistics** `2026.05 - 2026.06` : Logistics Platform
 - **6CanDoIt** `2026.04 - 2026.05` : Food Delivery Platform
+- **SSAC** `2026.04 - 2026.XX` : Financial Knowledge Platform
 - **KlickLab** `2025.05 - 2025.06` : Analytics Platform for Clickstream Data
 
 ---
@@ -53,7 +55,7 @@
 
 - **Kyungpook National University** `2019.03 - 2025.08` : Bachelor of Electronic Engineering
 - **Krafton Jungle 8th** `2025.03 - 2025.07`
-- **NBCamp Java track 7th** `2026.04 - 2026.07`
+- **NBCamp Java Track 7th** `2026.04 - 2026.07`
 
 ---
 
