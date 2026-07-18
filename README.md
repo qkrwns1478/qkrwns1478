@@ -43,11 +43,11 @@
 
 ## Recent Projects
 
-- **Sanji-JikKyeng** `2026.06 - 2026.07` : Online Auction Platform
+- **Sanji-JikKyeng** `2026.06 - 2026.07` : Real-time Agricultural Produce Auction Platform
 - **SpartaLogistics** `2026.05 - 2026.06` : Logistics Platform
 - **6CanDoIt** `2026.04 - 2026.05` : Food Delivery Platform
-- **SSAC** `2026.04 - 2026.XX` : Financial Knowledge Platform
-- **KlickLab** `2025.05 - 2025.06` : Analytics Platform for Clickstream Data
+- **SSAC** `2026.04 - 2026.07` : Financial Knowledge Platform
+- **KlickLab** `2025.05 - 2025.06` : Clickstream Data Analytics Platform
 
 ---
 
@@ -56,6 +56,7 @@
 - **Kyungpook National University** `2019.03 - 2025.08` : Bachelor of Electronic Engineering
 - **Krafton Jungle 8th** `2025.03 - 2025.07`
 - **NBCamp Java Track 7th** `2026.04 - 2026.07`
+- **SSAFY 16th** `2026.07 - `
 
 ---
 
